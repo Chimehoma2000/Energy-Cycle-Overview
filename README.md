@@ -1,9 +1,7 @@
 # Energy Cycle Overview
 
 ## Dashboard
-
-![Image](https://github.com/user-attachments/assets/02069456-fe60-49c6-9b45-dd6f22a13e56)
-![Image](https://github.com/user-attachments/assets/d22c5c99-f15c-4032-81ac-09061b0a9a55)
+![Image](https://github.com/user-attachments/assets/11621275-f72f-4968-b80d-f7bc549b1ebe)
 
 
 # MS PowerPoint Presentation
