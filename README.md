@@ -7,11 +7,9 @@ This energy analysis project examines trends in energy production, consumption, 
 ![Image](https://github.com/user-attachments/assets/11621275-f72f-4968-b80d-f7bc549b1ebe)
 
 
-# MS PowerPoint Presentation
 
-  Click here to download Presentation : [Download](https://docs.google.com/presentation/d/17yF9E6RUUAx174oN4O5rY3EMzRnJdlHk/edit?usp=sharing&ouid=116196374982920778506&rtpof=true&sd=true)
 
-## SQL PROJECT  
+# SQL PROJECT  
 
 
 ![Image](https://github.com/user-attachments/assets/0f9bc45c-3f7a-497d-a901-3cc1e3329a56)  
